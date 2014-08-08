@@ -1,3 +1,3 @@
-sudoku-solver
+file splitter
 =============
-split a file into chucks
+split a text file into chucks of complete lines
